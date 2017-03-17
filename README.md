@@ -2,7 +2,7 @@
 
 这是一个在Appbar中实现的轮播图(~~用于佐证我和某位同学撕逼~~)
 
-![](http://o7glqnnuw.bkt.clouddn.com/blog/AutoHideCrousel.gif)
+![](http://o7glqnnuw.bkt.clouddn.com/blog/AutoHideCrousel1.gif)
 
 ![](http://o7glqnnuw.bkt.clouddn.com/blog/AutoHideCrousel2.gif)
 
